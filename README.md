@@ -1,5 +1,3 @@
-# [get-tools-pwsh](https://github.com/wh0isandrew/get-tools-pwsh)
-
 ## Description
 
 This PowerShell script automates the process of downloading and installing essential tools for security analysis and forensic investigations. It also includes support for downloading and installing Python 3.8.0, as well as setting up dependencies required for Volatility.
